@@ -1,4 +1,4 @@
-# Context vs. Segmentation: Insights from Saliency Maps in Pulmonary Disease Classification
+# CoSegXAI: A Pipeline for Context vs. Segmented ROI Images in Lung Disease Classification through Saliency Map Insights
 
 This repository contains the implementation and evaluation code for our research on the counterintuitive relationship between classification performance and model explainability in chest X-ray analysis.
 
@@ -21,7 +21,7 @@ We use the **COVID-19 Radiography Database** containing:
 - **Split**: 70% training, 15% validation, 15% testing
 - **Evaluation Subset**: 951 stratified samples (30% per class) for explainability analysis
 
-## Methodology
+## Methods
 
 ### Model Training
 - **Architectures**: ResNet50, DenseNet201, VGG19
