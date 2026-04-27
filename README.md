@@ -50,3 +50,19 @@ We use the **COVID-19 Radiography Database** containing:
 
 **Explainability Results**: ROI-based models consistently achieved better IC, DC, and Sparsity scores, indicating more focused and interpretable attention patterns despite lower classification performance.
 
+
+## Citation
+
+If you find this repository useful for your research, please consider citing our work:
+
+```bibtex
+@article{dos2026cosegxai,
+  title={CoSegXAI: A Pipeline for Context vs. Segmented ROI Images in Lung Disease Classification through Saliency Map Insights},
+  author={dos Santos Favoreto, Graciella and Uchida, Mariana Aya Suzuki and Luiz, Pedro Augusto and de Aguiar, Erikson Julio and Santos, Marcel Koenigkam and Traina, Agma Juci Machado},
+  journal={Revista de Inform{\'a}tica Te{\'o}rica e Aplicada},
+  volume={33},
+  number={2},
+  pages={73--80},
+  year={2026}
+}
+
